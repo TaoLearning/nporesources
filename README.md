@@ -1,30 +1,20 @@
 # Non-Profit Resources
 
-###Office
-[TechSoup](http://techsoup.org "TechSoup")
-LinkedIn for Nonprofits 
-Microsoft 
-Office 365 
-
-Non Profit Tenant 
-
-Education Tenant (this one) 
-
-Azure Foundation ($3500 per year in credit) 
-
-Google 
-
-G Suite 
-
-Google Ads Grant ($10,000 per month in credit) 
-
-Youtube for NonProfits 
-
-Canva 
-
-Buffer.com 
-
-Givebox - free donor management, event management, membership management, donation pages. 
+### Office
+* [TechSoup](http://techsoup.org "TechSoup")
+* LinkedIn for Nonprofits
+* Microsoft 
+  * Office 365
+    * Non Profit Tenant  
+    * Education Tenant (this one)
+  * Azure Foundation ($3500 per year in credit) 
+* Google 
+  * G Suite
+  * Google Ads Grant ($10,000 per month in credit)
+  * Youtube for NonProfits 
+* Canva 
+* Buffer.com 
+* Givebox - free donor management, event management, membership management, donation pages. 
 
 ###Finance 
 
@@ -34,7 +24,7 @@ Stripe
 
 WaveApp - Free cloud accounting software 
 
-###Socialize & Staff 
+### Socialize & Staff 
 
 Pimp My Cause - Marketing Staff 
 
@@ -56,7 +46,7 @@ Council of Nonprofits
 
 Moving Worlds 
 
-###Equipment 
+### Equipment 
 
 Good 360 
 
@@ -70,7 +60,7 @@ CSR Eco Solutions
 
 NAEIR - The National Association for the Exchange of Industrial Resources 
 
-###Fundraising 
+### Fundraising 
 
 Nonprofit Finance Fund 
 
@@ -80,7 +70,7 @@ Stripe - to accept payments
 
 Bloomerang.co 
 
-###Education 
+### Education 
 
 Nonprofit Technology Network  
 
@@ -94,7 +84,7 @@ GrantsMagicU- free and paid grant courses from Maryn Boess who has been both a g
 
 Ignite Curiosity - Learn Office Skills, Soft Skills, and Business Management 
 
-###Grants 
+### Grants 
 
 Grants.gov 
 
@@ -104,7 +94,7 @@ GrantStation- grant database, paid subscription. Watch TechSoup for deep discoun
 
 Fluxx.io- free grant management software 
 
-###News 
+### News 
 
 Huffpost Impact 
 
@@ -114,6 +104,6 @@ Nonprofit AF
 
 Nonprofit Quarterly 
 
-###Listings 
+### Listings 
 
 Candid / GuideStar

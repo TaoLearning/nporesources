@@ -1,13 +1,13 @@
 # Non-Profit Resources
 
 ### Office
-* [TechSoup](http://techsoup.org "TechSoup")
-* LinkedIn for Nonprofits
-* Microsoft 
-  * Office 365
-    * Non Profit Tenant  
-    * Education Tenant (this one)
-  * Azure Foundation ($3500 per year in credit) 
+* [TechSoup](https://techsoup.org "TechSoup")
+* [LinkedIn for Nonprofits](https://nonprofit.linkedin.com/ "LinkedIn for Nonprofits")
+* [Microsoft](https://www.microsoft.com/en-us/nonprofits/ "Microsoft 365")
+  * [Office 365](https://office.com "Office 365")
+    * [Non Profit Tenant](https://office.com "Office 365")  
+    * [Education Tenant](https://office.com "Office 365")
+  * [Azure Subscription](https://office.com "$3500 per year in credit") 
 * Google 
   * G Suite
   * Google Ads Grant ($10,000 per month in credit)
